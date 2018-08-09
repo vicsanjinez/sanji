@@ -26,11 +26,11 @@ $ npm install @vicsanjinez/sanji
 ```js
 const tiny = require("@vicsanjinez/sanji");
 
-tiny("So much space!");
+sanji("So much space!");
 //=> "Somuchspace!"
 
 tiny(1337);
-//=> Uncaught TypeError: Sanji wants a string!
-//    at tiny (<anonymous>:2:41)
+//=> Uncaught TypeError: sanji wants a string!
+//    at siny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
