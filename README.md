@@ -24,7 +24,7 @@ $ npm install @vicsanjinez/sanji
 ## Usage
 
 ```js
-const tiny = require("@vicsanjinez/sanji");
+const sanji = require("@vicsanjinez/sanji");
 
 sanji("So much space!");
 //=> "Somuchspace!"
