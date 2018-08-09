@@ -1,4 +1,14 @@
 {
 "name": "@vicsanjinez/sanji",
-"version": "1.0.0"
+"version": "1.0.0",
+"description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "vicsanjinez/sanji",
+  "main": "index.js",
+  "keywords": [
+    "sanji",
+    "npm",
+    "package",
+    "vicsanjinez"
+  ]
 }
