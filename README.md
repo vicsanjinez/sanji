@@ -7,6 +7,10 @@
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@vicsanjinez/sanji.svg)](https://github.com/vicsanjinez/sanji)
 
 
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+
+
 ## Description
 
 Removes all spaces from a string.
