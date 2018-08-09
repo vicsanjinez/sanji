@@ -29,8 +29,8 @@ const tiny = require("@vicsanjinez/sanji");
 sanji("So much space!");
 //=> "Somuchspace!"
 
-tiny(1337);
+sanji(1337);
 //=> Uncaught TypeError: sanji wants a string!
-//    at siny (<anonymous>:2:41)
+//    at sanji (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
